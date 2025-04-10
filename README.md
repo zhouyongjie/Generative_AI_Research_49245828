@@ -1,6 +1,8 @@
 # Generative_AI_Research_49245828
 
+
 This project contains various folders, separated into Literature Reviews, Quantitative Analysis, Qualitative Analysis, Drafts Reports and AdditionalMaterials.
+
 ------------------
 
 
